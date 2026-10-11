@@ -1,0 +1,74 @@
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.exe
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.deps.json
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.runtimeconfig.json
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.pdb
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Broker.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libmsalruntime.so
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\osx-x64\native\msalruntime.dylib
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\bin\Debug\net10.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.AssemblyReference.cache
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu_3.Form1.resources
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.GenerateResource.cache
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.AssemblyInfoInputs.cache
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.AssemblyInfo.cs
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.CoreCompileInputs.cache
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.sourcelink.json
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.Up2Date
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\refint\Câu 3.dll
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.pdb
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.genruntimeconfig.cache
+D:\C#\NguyenGiaKhang_6551071042_BTLT7\Câu 3\Câu 3\obj\Debug\net10.0-windows\ref\Câu 3.dll
